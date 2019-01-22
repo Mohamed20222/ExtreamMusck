@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Zplay | ExtreamsNetwork`,"http://twitch.tv/Death Shop")
+client.user.setGame(`Zplay | ExtreamesNetwork`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
